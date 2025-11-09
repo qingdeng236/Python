@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 08, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 09, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
-- [The Real Reason Developers Hate Meetings (It’s Not Time) 🧠💥](https://dev.to/sylwia-lask/the-real-reason-developers-hate-meetings-its-not-time-31do)
-- [Tailwind CSS Won the War... But We're the Losers](https://dev.to/elvissautet/tailwind-css-won-the-war-but-were-the-losers-4877)
-- [A Full-Stack Developer Is A Myth](https://dev.to/adamthedeveloper/a-full-stack-developer-is-a-myth-3bmk)
-- [Werewolf? There Wolf.](https://dev.to/jarvisscript/werewolf-there-wolf-2e17)
+- [The Truth About ‘Building in Public’: What No One Tells You](https://dev.to/debuggingwithsim/the-truth-about-building-in-public-what-no-one-tells-you-2o2p)
+- [Build in Public: Week 1](https://dev.to/olgabraginskaya/build-in-public-week-1-o8a)
+- [Week 3: From 0 to 30 Developers (Building in Public)](https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2ng9)
+- [Line by Line, But HOW Do I Construct A BSP Tree?](https://dev.to/chigbeef_77/line-by-line-but-how-do-i-construct-a-bsp-tree-497n)
+- [Compute Wars: Google’s TPU Push vs Nvidia Blackwell and China’s No‑Sell Moment](https://dev.to/0xrelogic/compute-wars-googles-tpu-push-vs-nvidia-blackwell-and-chinas-no-sell-moment-1g2p)
 <!-- END_TRENDING -->
 
 ---
