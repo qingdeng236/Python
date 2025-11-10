@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 09, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 10, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Truth About ‘Building in Public’: What No One Tells You](https://dev.to/debuggingwithsim/the-truth-about-building-in-public-what-no-one-tells-you-2o2p)
-- [Build in Public: Week 1](https://dev.to/olgabraginskaya/build-in-public-week-1-o8a)
-- [Week 3: From 0 to 30 Developers (Building in Public)](https://dev.to/liquidcode/week-3-from-0-to-30-developers-building-in-public-2ng9)
-- [Line by Line, But HOW Do I Construct A BSP Tree?](https://dev.to/chigbeef_77/line-by-line-but-how-do-i-construct-a-bsp-tree-497n)
-- [Compute Wars: Google’s TPU Push vs Nvidia Blackwell and China’s No‑Sell Moment](https://dev.to/0xrelogic/compute-wars-googles-tpu-push-vs-nvidia-blackwell-and-chinas-no-sell-moment-1g2p)
+- [Building a Lightweight Camunda Monitoring Dashboard: From Enterprise Pain to Open Source Solution](https://dev.to/dmitriy_champa_d458cfc7/building-a-lightweight-camunda-monitoring-dashboard-from-enterprise-pain-to-open-source-solution-2ik4)
+- [Project Phantom: The 6D Halloween Metaverse Experience](https://dev.to/aviral_srivastava_2c4e212/project-phantom-the-6d-halloween-metaverse-experience-5ckg)
+- [The Case of the Missing Proxy: When Multiple Valtio Instances Broke My App](https://dev.to/heyradcode/the-case-of-the-missing-proxy-when-multiple-valtio-instances-broke-my-app-1ke9)
+- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
+- [Make AI Your Copilot, Not Your Autopilot](https://dev.to/mahi160/make-ai-your-copilot-not-your-autopilot-18ef)
 <!-- END_TRENDING -->
 
 ---
