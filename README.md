@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 10, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 11, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Building a Lightweight Camunda Monitoring Dashboard: From Enterprise Pain to Open Source Solution](https://dev.to/dmitriy_champa_d458cfc7/building-a-lightweight-camunda-monitoring-dashboard-from-enterprise-pain-to-open-source-solution-2ik4)
-- [Project Phantom: The 6D Halloween Metaverse Experience](https://dev.to/aviral_srivastava_2c4e212/project-phantom-the-6d-halloween-metaverse-experience-5ckg)
-- [The Case of the Missing Proxy: When Multiple Valtio Instances Broke My App](https://dev.to/heyradcode/the-case-of-the-missing-proxy-when-multiple-valtio-instances-broke-my-app-1ke9)
-- [Detecting Logo Similarity: Combining AI Embeddings with Fourier Descriptors](https://dev.to/ruben_ghafadaryan/detecting-logo-similarity-combining-ai-embeddings-with-fourier-descriptors-5eoc)
-- [Make AI Your Copilot, Not Your Autopilot](https://dev.to/mahi160/make-ai-your-copilot-not-your-autopilot-18ef)
+- [I Taught Postgres to Fight Hackers - And It Worked (Agent Auth)](https://dev.to/isah_alamin_93d4e4d2ab01f/i-taught-postgres-to-fight-hackers-and-it-worked-agent-auth-281i)
+- [Umbraco in the City - Community, Code, and Cuddles](https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c)
+- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)
+- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
+- [Setting up an encrypted secondary drive on Linux](https://dev.to/mrispoli24/setting-up-an-encrypted-secondary-drive-on-linux-3ioa)
 <!-- END_TRENDING -->
 
 ---
