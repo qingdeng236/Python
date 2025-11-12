@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 11, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 12, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Taught Postgres to Fight Hackers - And It Worked (Agent Auth)](https://dev.to/isah_alamin_93d4e4d2ab01f/i-taught-postgres-to-fight-hackers-and-it-worked-agent-auth-281i)
-- [Umbraco in the City - Community, Code, and Cuddles](https://dev.to/lssweatherhead/umbraco-in-the-city-community-code-and-cuddles-80c)
-- [Building a Cloud-Native App to Match Founders with the Right Hackathon](https://dev.to/abishek_muthian/building-a-cloud-native-app-to-match-founders-with-the-right-hackathon-14ae)
-- [Reflections on Life](https://dev.to/bibimbop123/reflections-on-life-157d)
-- [Setting up an encrypted secondary drive on Linux](https://dev.to/mrispoli24/setting-up-an-encrypted-secondary-drive-on-linux-3ioa)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
+- [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
+- [How I learned to “use AI” in 3 baby steps](https://dev.to/miffens/how-i-learned-to-use-ai-in-3-baby-steps-2216)
+- [Building a Vector Database from Scratch - CapybaraDB](https://dev.to/piyush_choudhari_a5b29f7f/building-a-vector-database-from-scratch-capybaradb-ek8)
+- [Building AI-Powered Projects: My Complete Claude Development Stack](https://dev.to/aldenweaver/building-ai-powered-projects-my-complete-claude-development-stack-4903)
 <!-- END_TRENDING -->
 
 ---
