@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 16, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 17, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [⛓️‍💥Chaining Veo 3.1 and NanoBanana with Gemini](https://dev.to/googleai/chaining-veo-31-and-nanobanana-with-gemini-3ffi)
-- [Why Small Online Communities Still Matter for Developers in 2025](https://dev.to/sonia_bobrik_1939cdddd79d/why-small-online-communities-still-matter-for-developers-in-2025-1ooe)
-- [Building "CodeBro": My (Pointless) Adventure into AI Agents with Java](https://dev.to/phouchens/building-codebro-my-pointless-adventure-into-ai-agents-with-java-24ga)
-- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
-- [Closures & Callstacks: Building a Game to Learn JavaScript Closures](https://dev.to/stuartp/closures-callstacks-building-a-game-to-learn-javascript-closures-1jb2)
+- [The Bloated Kitchen: Why Craftsmanship is Getting Cooked in the Tech World (and What AI Means for Our Chefs)](https://dev.to/j4s0nc/the-bloated-kitchen-why-craftsmanship-is-getting-cooked-in-the-tech-world-and-what-ai-means-for-2moj)
+- [⚛️ Controlled vs Uncontrolled Components in React – A Deep Dive](https://dev.to/fazal_mansuri_/controlled-vs-uncontrolled-components-in-react-a-deep-dive-1hhb)
+- [When Static Sites Stop Scaling: Migrating FreeDevTools (125K+ Pages) from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
+- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
+- [How I Built Book-Writer-AI in a Few Days: Tech Stack, Architecture & Challenges](https://dev.to/red_wolfman_680dc4b3efc3e/how-i-built-book-writer-ai-in-a-few-days-tech-stack-architecture-challenges-2maa)
 <!-- END_TRENDING -->
 
 ---
