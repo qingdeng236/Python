@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 24, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 25, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Don Quixote Of Orchestration: Building For Problems No One Sees Yet](https://dev.to/marcosomma/don-quixote-of-orchestration-building-for-problems-no-one-sees-yet-1je6)
-- [You're Not Building Netflix: Stop Coding Like You Are](https://dev.to/adamthedeveloper/youre-not-building-netflix-stop-coding-like-you-are-1707)
-- [I Built an AI-Powered Pokedex with Python & Streamlit (And It's Free!) 🚀](https://dev.to/cammanhhoang/i-built-an-ai-powered-pokedex-with-python-streamlit-and-its-free-4lem)
-- [If You Think YOUR Commit Messages Are Bad, Just Wait…](https://dev.to/sylwia-lask/if-you-think-your-commit-messages-are-bad-just-wait-3fgk)
-- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
+- [Dear Junior Coders: Stop Chasing Shiny Objects](https://dev.to/canro91/dear-junior-coders-stop-chasing-shiny-objects-1p51)
+- [Auth0 for AI Agents is now generally available!](https://dev.to/auth0/auth0-for-ai-agents-is-now-generally-available-29el)
+- [Why I Stopped Sending Data to LLMs: Introducing "Zero-Data Transport" Architecture](https://dev.to/daniel_darosa_8b4804e356/why-i-stopped-sending-data-to-llms-introducing-zero-data-transport-architecture-fl4)
+- [Meme Monday](https://dev.to/ben/meme-monday-1ec3)
+- [Is the Java ecosystem cursed? A dependency analysis perspective](https://dev.to/autonomousapps/is-the-java-ecosystem-cursed-a-dependency-analysis-perspective-53ef)
 <!-- END_TRENDING -->
 
 ---
