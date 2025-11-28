@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 27, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 28, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Join the Xano AI-Powered Backend Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-xano-ai-powered-backend-challenge-3000-in-prizes-3c11)
-- [Don't get scammed on an interview.](https://dev.to/ackvf/dont-get-scammed-on-an-interview-4f92)
-- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
-- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)
-- [My checklist before launching any app](https://dev.to/shayy/my-checklist-before-launching-any-app-2a8h)
+- [My first real Rust project](https://dev.to/nfrankel/my-first-real-rust-project-4if9)
+- [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://dev.to/nickytonline/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f)
+- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a)
+- [🤖🤖How to run AI in parallel easily and for free (Git Worktree Runner)🧠🧠](https://dev.to/webdeveloperhyper/how-to-run-ai-in-parallel-easily-and-for-free-git-worktree-runner-80o)
+- [Good Git Hygiene Practices](https://dev.to/pauljlucas/good-git-hygiene-practices-2fnl)
 <!-- END_TRENDING -->
 
 ---
