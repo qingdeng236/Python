@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 28, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 29, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [My first real Rust project](https://dev.to/nfrankel/my-first-real-rust-project-4if9)
-- [How I Used Claude Code to Speed Up My Shell Startup by 95%](https://dev.to/nickytonline/how-i-used-claude-code-to-speed-up-my-shell-startup-by-95-m0f)
-- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a)
-- [🤖🤖How to run AI in parallel easily and for free (Git Worktree Runner)🧠🧠](https://dev.to/webdeveloperhyper/how-to-run-ai-in-parallel-easily-and-for-free-git-worktree-runner-80o)
-- [Good Git Hygiene Practices](https://dev.to/pauljlucas/good-git-hygiene-practices-2fnl)
+- [Building Spectre: The Media Player That Haunts You Back 👻🎭](https://dev.to/vidit_jain/building-spectre-the-media-player-that-haunts-you-back-4jca)
+- [I just shipped v3.0 of Frontend Master Prep Series — Study Paths, 374+ Q&A, 65 Coding Problems & 500+ Flashcards](https://dev.to/maurya-sachin/i-just-shipped-v30-of-frontend-master-prep-series-study-paths-374-qa-65-coding-problems--44mi)
+- [Kubernetes Gateway API Rehberi: Ingress NGINX'ten Göç ve Zabbix Örneği](https://dev.to/yunusemredere16/kubernetes-gateway-api-rehberi-ingress-nginxten-goc-ve-zabbix-ornegi-3ea4)
+- [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp)
+- [When Terraform Parallel Execution Becomes a Nightmare](https://dev.to/techwithhari/when-terraform-parallel-execution-becomes-a-nightmare-45nh)
 <!-- END_TRENDING -->
 
 ---
