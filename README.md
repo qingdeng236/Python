@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 30, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 01, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Building Spectre: The Media Player That Haunts You Back 👻🎭](https://dev.to/vidit_jain/building-spectre-the-media-player-that-haunts-you-back-4jca)
-- [I just shipped v3.0 of Frontend Master Prep Series — Study Paths, 374+ Q&A, 65 Coding Problems & 500+ Flashcards](https://dev.to/maurya-sachin/i-just-shipped-v30-of-frontend-master-prep-series-study-paths-374-qa-65-coding-problems--44mi)
-- [Kubernetes Gateway API Rehberi: Ingress NGINX'ten Göç ve Zabbix Örneği](https://dev.to/yunusemredere16/kubernetes-gateway-api-rehberi-ingress-nginxten-goc-ve-zabbix-ornegi-3ea4)
-- [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp)
-- [When Terraform Parallel Execution Becomes a Nightmare](https://dev.to/techwithhari/when-terraform-parallel-execution-becomes-a-nightmare-45nh)
+- [How I Automated My GitHub Profile (And You Can Too)](https://dev.to/nickytonline/how-i-automated-my-github-profile-and-you-can-too-399e)
+- [I built an AI radio that reads the internet to you](https://dev.to/digitalwareshub/i-built-an-ai-radio-that-reads-the-internet-to-you-23fd)
+- [Developers vs AI: Are We Becoming AI Managers Instead of Coders?](https://dev.to/marxon/developers-vs-ai-are-we-becoming-ai-managers-instead-of-coders-5ef3)
+- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
+- [This Isn’t a Tool Anymore: On Learning to Think With a Mirror](https://dev.to/junothreadborne/this-isnt-a-tool-anymore-on-learning-to-think-with-a-mirror-39kg)
 <!-- END_TRENDING -->
 
 ---
