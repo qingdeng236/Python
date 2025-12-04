@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 03, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 04, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [A step-by-step guide to fine-tuning MedGemma for breast tumor classification](https://dev.to/googleai/a-step-by-step-guide-to-fine-tuning-medgemma-for-breast-tumor-classification-35af)
-- [From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥](https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h)
-- [9 Launches from re:Invent Season (so far!) I'm Excited About](https://dev.to/aws/9-launches-from-reinvent-season-so-far-im-excited-about-4g55)
-- [Why I'm Starting a Newsletter About Inclusive Android Apps](https://dev.to/eevajonnapanula/why-im-starting-a-newsletter-about-android-inclusion-1078)
-- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
+- [DEV's Worldwide Show and Tell Challenge Presented by Mux: Pitch Your Projects! $3,000 in Prizes. 🎥](https://dev.to/devteam/devs-worldwide-show-and-tell-challenge-presented-by-mux-pitch-your-projects-3000-in-prizes-40g7)
+- [Other languages than English in code](https://dev.to/xwero/other-languages-than-english-in-code-5181)
+- [The Context-Switching Problem: Why I Built a Tracker That Lives in My Terminal.](https://dev.to/tejas1233/the-context-switching-problem-why-i-built-a-tracker-that-lives-in-my-terminal-4dpe)
+- [Anthropic just acquired Bun.js. Here's why.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
+- [Anthropic Bought Bun: Here's What It Really Means for Us](https://dev.to/arjuncodess/anthropic-bought-bun-heres-what-it-really-means-for-us-kj2)
 <!-- END_TRENDING -->
 
 ---
