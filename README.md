@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 08, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 09, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Just Ask - A Story About Growth as a Developer](https://dev.to/arto-b/just-ask-a-story-about-growth-as-a-developer-1a2b)
-- [My First Ethical Open Redirect Scanner: From Zero to Shipped](https://dev.to/ethicals7s/my-first-ethical-open-redirect-scanner-from-zero-to-shipped-4h69)
-- [Binary weighted evaluations...how to](https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p)
-- [Stop Asking AI to Write Your Code. Ask It to Explain Like You’re 5.](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
-- [How to implement Google OAuth in browser extension without “Tabs” permission](https://dev.to/notearthian/how-to-implement-google-oauth-in-browser-extension-without-tabs-permission-327m)
+- [The Art of Vibe Coding With Actual Discipline](https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo)
+- [The Secret Life of JavaScript: Let, Const, and Why Variables Are Complicated](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-let-const-and-why-variables-are-complicated-2gkk)
+- [Build a Bi‑Directional TOON Parser in C#: Convert TOON JSON with Ease](https://dev.to/auyeungdavid_2847435260/build-a-bi-directional-toon-parser-in-c-convert-toon-json-with-ease-24h2)
+- [Lyria RealTime: The Developer’s Guide to Infinite Music Streaming](https://dev.to/googleai/lyria-realtime-the-developers-guide-to-infinite-music-streaming-4m1h)
+- [Advent of AI 2025 - Day 5: I Built a Touchless Flight Tracker You Control With Hand Gestures](https://dev.to/nickytonline/advent-of-ai-2025-day-5-i-built-a-touchless-flight-tracker-you-control-with-hand-gestures-1jn8)
 <!-- END_TRENDING -->
 
 ---
