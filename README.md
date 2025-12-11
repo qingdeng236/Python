@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 10, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 11, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Why Every Conference Needs a Nursing Room](https://dev.to/blackgirlbytes/why-every-conference-needs-a-nursing-room-3g74)
-- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
-- [Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
-- [How I Cut My Debugging Time in Half as a Front-End Developer (A Practical Guide)](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-as-a-front-end-developer-a-practical-guide-3kd0)
-- [Advent of AI 2025 - Day 6: Automating GitHub Issue Triage with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-6-automating-github-issue-triage-with-goose-1pn5)
+- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h)
+- [Show me your open-source project](https://dev.to/polliog/show-me-your-open-source-project-30gi)
+- [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
+- [Code Reviews: Quality Control or Ego Olympics?](https://dev.to/adamthedeveloper/code-reviews-quality-control-or-ego-olympics-426g)
+- [Advent of AI 2025 - Day 7: Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-7-goose-recipes-5d1c)
 <!-- END_TRENDING -->
 
 ---
