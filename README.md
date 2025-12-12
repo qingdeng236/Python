@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 11, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 12, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/thebitforge/top-10-productivity-hacks-every-developer-should-know-151h)
-- [Show me your open-source project](https://dev.to/polliog/show-me-your-open-source-project-30gi)
-- [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
-- [Code Reviews: Quality Control or Ego Olympics?](https://dev.to/adamthedeveloper/code-reviews-quality-control-or-ego-olympics-426g)
-- [Advent of AI 2025 - Day 7: Goose Recipes](https://dev.to/nickytonline/advent-of-ai-2025-day-7-goose-recipes-5d1c)
+- [Give your AI Studio deployed app a custom URL](https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f)
+- [The Secret Life of JavaScript: Understanding Prototypes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn)
+- [JavaScript Isn’t Broken — Your Closure Placement Is](https://dev.to/priya2422/javascript-isnt-broken-your-closure-placement-is-1i21)
+- [Companies Demand Elite Engineers, Yet Their Websites Load Like a Dying Dial-Up Modem](https://dev.to/mjlynch123/companies-demand-elite-engineers-yet-their-websites-load-like-a-dying-dial-up-modem-2nij)
+- [(Learn with 🖼️Meme images) How to create 🎨3D animation using 🧠AI (React Three Fiber vs Three.js vs A-Frame + GSAP)](https://dev.to/webdeveloperhyper/learn-with-meme-images-how-to-create-3d-animation-using-ai-react-three-fiber-vs-threejs-vs-kho)
 <!-- END_TRENDING -->
 
 ---
