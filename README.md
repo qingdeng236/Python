@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 16, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 17, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Music Monday Spotify Open-Source Sync Bot](https://dev.to/mikeydorje/music-monday-spotify-open-source-sync-bot-e86)
-- [Back to Basics 2025 Wrapped](https://dev.to/theoriginalbpc/back-to-basics-2025-wrapped-1g5n)
-- [My Newsletter: Growth, Fun, Slow & Steady](https://dev.to/nickytonline/my-newsletter-growth-fun-slow-steady-4fpd)
-- [Trajectory Is The Truth: My Five-Day Transformation Into an Agent Architect](https://dev.to/maggiezhao/trajectory-is-the-truth-my-five-day-transformation-into-an-agent-architect-5gp9)
-- [Creative Web Developer: Updating my Profile/Portfolio as a Senior Web Developer](https://dev.to/ingosteinke/creative-web-developer-updating-my-profileportfolio-as-a-senior-web-developer-44kn)
+- [I've FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
+- [My OSS Stalled for 3 Months Because of Misguided Vibe Coding—This Is the Full Reboot Story](https://dev.to/kako-jun/my-oss-stalled-for-3-months-because-of-misguided-vibe-coding-this-is-the-full-reboot-story-2da5)
+- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
+- [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
+- [Why accessible video is still not possible on Instagram](https://dev.to/chris_devto/why-accessible-video-is-still-not-possible-on-instagram-8p)
 <!-- END_TRENDING -->
 
 ---
