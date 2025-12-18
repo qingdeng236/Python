@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 17, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 18, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I've FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
-- [My OSS Stalled for 3 Months Because of Misguided Vibe Coding—This Is the Full Reboot Story](https://dev.to/kako-jun/my-oss-stalled-for-3-months-because-of-misguided-vibe-coding-this-is-the-full-reboot-story-2da5)
-- [STOP GUESSING: The Observability Stack I Built to Debug My Failing AI Agents](https://dev.to/the_nortern_dev/stop-guessing-the-observability-stack-i-built-to-debug-my-failing-ai-agents-4b4o)
-- [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
-- [Why accessible video is still not possible on Instagram](https://dev.to/chris_devto/why-accessible-video-is-still-not-possible-on-instagram-8p)
+- [The ONE Skill I'm Choosing Over LeetCode Grinding in 2025](https://dev.to/maame-codes/the-one-skill-im-choosing-over-leetcode-grinding-in-2025-41o1)
+- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
+- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
+- [Stop treating your AI like a goldfish. Here is how to give it long-term memory.](https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la)
+- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
 <!-- END_TRENDING -->
 
 ---
