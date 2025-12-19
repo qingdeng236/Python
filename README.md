@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 18, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 19, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The ONE Skill I'm Choosing Over LeetCode Grinding in 2025](https://dev.to/maame-codes/the-one-skill-im-choosing-over-leetcode-grinding-in-2025-41o1)
-- [The Secret Life of Python: The Statue in the Memory](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-statue-in-the-memory-22d9)
-- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
-- [Stop treating your AI like a goldfish. Here is how to give it long-term memory.](https://dev.to/the_nortern_dev/stop-treating-your-ai-like-a-goldfish-here-is-how-to-give-it-long-term-memory-56la)
-- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
+- [Is "Vibe Coding" Ruining My CS Degree?](https://dev.to/maame-codes/is-vibe-coding-ruining-my-cs-degree-3m3)
+- [Building a "Text-to-GIS" Engine with SvelteKit, PostGIS and Open-Source LLMs](https://dev.to/zeekrey/building-a-text-to-gis-engine-with-sveltekit-postgis-and-open-source-llms-57bo)
+- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
+- [🧠How to make Codex boost your mood like good old Claude Code (Getting back You're absolutely right!)🤖](https://dev.to/webdeveloperhyper/how-to-make-codex-boost-your-mood-like-good-old-claude-code-getting-back-youre-absolutely-1l23)
+- [Introducing Vector Buckets](https://dev.to/supabase/introducing-vector-buckets-3134)
 <!-- END_TRENDING -->
 
 ---
