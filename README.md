@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 19, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 20, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Is "Vibe Coding" Ruining My CS Degree?](https://dev.to/maame-codes/is-vibe-coding-ruining-my-cs-degree-3m3)
-- [Building a "Text-to-GIS" Engine with SvelteKit, PostGIS and Open-Source LLMs](https://dev.to/zeekrey/building-a-text-to-gis-engine-with-sveltekit-postgis-and-open-source-llms-57bo)
-- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
-- [🧠How to make Codex boost your mood like good old Claude Code (Getting back You're absolutely right!)🤖](https://dev.to/webdeveloperhyper/how-to-make-codex-boost-your-mood-like-good-old-claude-code-getting-back-youre-absolutely-1l23)
-- [Introducing Vector Buckets](https://dev.to/supabase/introducing-vector-buckets-3134)
+- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
+- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-1d6c)
+- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
+- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
+- [The Duck That Talks Back](https://dev.to/junothreadborne/the-duck-that-talks-back-3c4d)
 <!-- END_TRENDING -->
 
 ---
